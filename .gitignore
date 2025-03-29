@@ -1,0 +1,12 @@
+# --- Visual Studio ---
+.vs/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+*.user
+*.suo
+
+# --- Build Outputs ---
+Release/
+Debug/
